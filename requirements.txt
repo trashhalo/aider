@@ -177,7 +177,7 @@ rpds-py==0.20.0
     # via
     #   jsonschema
     #   referencing
-scipy==1.13.1
+scipy==1.14.0
     # via -r requirements/requirements.in
 smmap==5.0.1
     # via gitdb
